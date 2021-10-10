@@ -4,6 +4,14 @@
 
 ## <!-- like an <hr> (***) but the line is consistent with the line preceding it -->
 
+### who am i?
+just a person that enjoys coding
+
+i have a bit of experience in: <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="32" height="32"> 
+<img src="https://dannymcgee.gallerycdn.vsassets.io/extensions/dannymcgee/csharp-grammar-extended/1.1.1/1576121453694/Microsoft.VisualStudio.Services.Icons.Default" alt="c sharp" width="32" height="32"> 
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="32" height="32">
+
 ### what am i currently up to?
 - not much
 - school
