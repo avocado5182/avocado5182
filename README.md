@@ -15,5 +15,4 @@ i have a bit of experience in: <br>
 <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" alt="css" width="32" height="32">
 
 ### what am i currently up to?
-- not much
-- school
+- gwa run
